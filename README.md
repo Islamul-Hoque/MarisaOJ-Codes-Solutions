@@ -72,7 +72,6 @@ This repo is designed for:
 ### CSES-CF
 - (Problems will be added soon)  
 
----
 
 ## 🤝 Contribution Guide
 - Fork the repo  
@@ -80,25 +79,21 @@ This repo is designed for:
 - Use clear commit messages (e.g., `feat(Codeforces/ProblemName.c): add solution`)  
 - Submit a pull request  
 
----
 
 ## 📜 License
 This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.
 
----
 
 ## 🙌 Acknowledgements
 Problems sourced from **MarisaOJ**, **Codeforces**, **AtCoder**, and **CSES-CF** platforms.  
 Special thanks to the competitive programming community for inspiration.
 
----
 
 ## 🔮 Future Work
 - Add more problems from **CSES-CF**  
 - Extend solutions in **C++/Python**  
 - Add performance benchmarks for each solution  
 
----
 
 ## 📬 Contact
 - GitHub: [Islamul-Hoque](https://github.com/Islamul-Hoque)  
