@@ -7,9 +7,10 @@ int main() {
     while (t--){
         long long int n, Factorial=1;
         scanf("%lld", &n);
-        for (int i = 1; i <=n; i++) {
+
+        for (int i = 1; i <=n; i++) 
             Factorial *= i;
-        }
+
         printf("%lld\n", Factorial);
     }
 
