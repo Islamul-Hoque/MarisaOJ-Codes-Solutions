@@ -63,11 +63,11 @@ This repo is designed for:
 
 
 ### AtCoder
-1. Multiple of 2 and N → [Find minimum positive integer divisible by both 2 and N](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Multiple_of_2_and_N.c)  
-2. Rated for Me → [Determine next contest (ABC, ARC, AGC) based on rating thresholds](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Rated_for_Me.c)  
-3. 9x9 🌟→ [Multiply two integers if both are between 1 and 9, otherwise print -1](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/9_x_9.c)  
-4. 2UP3DOWN → [Check if Takahashi uses stairs (up ≤2 floors, down ≤3 floors) or elevator](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/2_UP_3_DOWN.c)  
-5. Addition and Subtraction Easy → [Evaluate formula A op B where op is + or -](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Addition_and_Subtraction_Easy.c)
+1.` Multiple of 2 and N` → [Find minimum positive integer divisible by both 2 and N](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Multiple_of_2_and_N.c)  
+2. `Rated for Me` → [Determine next contest (ABC, ARC, AGC) based on rating thresholds](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Rated_for_Me.c)  
+3. `9x9` 🌟→ [Multiply two integers if both are between 1 and 9, otherwise print -1](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/9_x_9.c)  
+4. `2UP3DOWN` → [Check if Takahashi uses stairs (up ≤2 floors, down ≤3 floors) or elevator](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/2_UP_3_DOWN.c)  
+5. `Addition and Subtraction Easy` → [Evaluate formula A op B where op is + or -](https://github.com/Islamul-Hoque/C-Basic-100-OJ-Solutions/blob/main/AtCoder/Addition_and_Subtraction_Easy.c)
 
 ### CSES-CF
 - (Problems will be added soon)  
